@@ -1,0 +1,16 @@
+- title: My first episode
+  link: 01-first.mp3
+  image: 01-first.jpg
+  description: >
+    Hello world! this is my first episode.
+  pubdate: 2015-07-16T20:00:41-07:00
+  guid: 12e3346a-f12f-4417-90fc-9863edc74665
+
+- title: My second episode
+  link: 02-first.mp3
+  image: 02-first.jpg
+  description: >
+    Hello world! this is my second episode.
+  pubdate: 2015-07-18T20:00:41-07:00
+
+
